@@ -81,7 +81,7 @@ function Login() {
                                 Submit
                             </Button>
                         </Form>
-                        <p className="mt-3" style={{marginLeft:100}}>New User <span><NavLink to="/signup">Sign In</NavLink></span></p>
+                        <p className="mt-3" style={{marginLeft:100}}>New User <span><NavLink to="/">Sign In</NavLink></span></p>
                     </div>
                     <div className="right_data mt-3" style={{width:"100%",textAlign:"center"}}>
                         <div className="sign_img mt-3" style={{paddingTop:90}}>
