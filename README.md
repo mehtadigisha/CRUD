@@ -5,9 +5,9 @@ I've developed a user-friendly application that employs Create, Read, Update, an
 # Key Features:
 
 1. CRUD Operations:
-  - Users can effortlessly Create, Read, Update, and Delete data entries within the application. This streamlined process enhances user experience and data management.
-  - User Authentication: Secure signup and login functionalities have been integrated, leveraging Local Storage for storing user credentials. This ensures a seamless and secure user          experience.
-  - Data Persistence: Utilizing Local Storage ensures that user data remains persistent across sessions, eliminating the need for external databases and enhancing data accessibility and       reliability.
+    - Users can effortlessly Create, Read, Update, and Delete data entries within the application. This streamlined process enhances user experience and data management.
+    - User Authentication: Secure signup and login functionalities have been integrated, leveraging Local Storage for storing user credentials. This ensures a seamless and secure user          experience.
+    - Data Persistence: Utilizing Local Storage ensures that user data remains persistent across sessions, eliminating the need for external databases and enhancing data accessibility and       reliability.
 2. Usage:
     - Signup/Login: Users can easily sign up for a new account or log in using existing credentials stored in Local Storage, providing a hassle-free authentication process.
     - Data Management: Once authenticated, users can perform CRUD operations on the stored data, including creating new entries, updating existing ones, and deleting unwanted records.
